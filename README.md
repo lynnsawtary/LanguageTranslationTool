@@ -1,6 +1,6 @@
-# CodeAlpha Language Translation Tool
+# Language Translation Tool
 
-A modern Language Translation Tool developed using Python and Tkinter as part of the CodeAlpha Internship Program.
+A modern Language Translation Tool developed using Python and Tkinter.
 
 The application allows users to translate text between multiple languages using AI-powered translation services. It includes text-to-speech functionality, clipboard copying, and a clean graphical user interface.
 
@@ -47,7 +47,7 @@ CodeAlpha_LanguageTranslationTool/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_LanguageTranslationTool.git
+git clone https://github.com/YOUR_USERNAME/LanguageTranslationTool.git
 ```
 
 Navigate into the project folder:
@@ -107,18 +107,6 @@ Additional features:
 3. The translated response is received and displayed.
 4. Users can copy or listen to the translated result.
 
----
-
-# Internship Task Requirements Completed
-
-This project satisfies the following CodeAlpha Task 1 requirements:
-
-- User interface for text input
-- Source and target language selection
-- Translation API integration
-- Display translated text
-- Copy button functionality
-- Text-to-speech feature
 
 ---
 
@@ -149,4 +137,3 @@ Possible future enhancements:
 
 Lynn Sawtary
 
-CodeAlpha Internship Project
