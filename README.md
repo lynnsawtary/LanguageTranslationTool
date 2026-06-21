@@ -31,7 +31,7 @@ The application allows users to translate text between multiple languages using 
 # Project Structure
 
 ```text
-CodeAlpha_LanguageTranslationTool/
+LanguageTranslationTool/
 │
 ├── main.py
 ├── README.md
@@ -53,7 +53,7 @@ git clone https://github.com/YOUR_USERNAME/LanguageTranslationTool.git
 Navigate into the project folder:
 
 ```bash
-cd CodeAlpha_LanguageTranslationTool
+cd LanguageTranslationTool
 ```
 
 Create a virtual environment:
